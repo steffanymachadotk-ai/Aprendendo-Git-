@@ -1,2 +1,2 @@
-# aprendendo-git
+# Aprendendo Git
 Estudo de Git com GitHub
